@@ -52,4 +52,5 @@ Employee Performance (barchart):Tracks sales managed by each sales representativ
     Growth Opportunities: Highlights underperforming areas and sales trends, enabling data-backed decision-making.
 
 6. Screenshots / Demos:
+   https://github.com/POLABOINA-ANKITHA/NorthWind-Analytics-Dashboard/blob/main/Dashboard%20Snapshot.png
 
