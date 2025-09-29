@@ -8,15 +8,17 @@
 
 The Northwind Sales & Customer Insights Dashboard is an interactive Power BI report designed to provide a comprehensive overview of sales, customer distribution, order trends, and employee performance. It consolidates data from multiple sources into one visually engaging platform.
 The purpose of this dashboard is to:
-• Monitor sales performance across regions, categories, and time periods.
+🛢️ Leverage SQL to fire queries and perform Exploratory Data Analysis (EDA) in a proficient way, ensuring clean and structured data for reporting.
 
-• Analyze customer behavior and identify high-value segments.
+📊 Monitor sales performance across regions, categories, and time periods.
 
-• Track order trends to optimize business operations.
+👥 Analyze customer behavior and identify high-value segments.
 
-• Evaluate employee contributions to overall performance.
+📦 Track order trends to optimize business operations.
 
-• Empower decision-makers with real-time, data-driven insights to improve competitiveness and growth.
+👨‍💼 Evaluate employee contributions to overall performance.
+
+⚡ Empower decision-makers with real-time, data-driven insights to improve competitiveness and growth.
 
 
 3. Tech Stack
@@ -28,6 +30,8 @@ The purpose of this dashboard is to:
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
 
 • 🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.
+
+• 🛢️ SQL(Structured Query Language)- Used to fire queries and perform Exploratory Data Analysis (EDA) in a proficient way before integrating data into the dashboard.
 
 • 📝 Data Modeling – Relationships established among tables (customers,employees,orders,order details,categories,suppliers,products,shippers) to enable cross-filtering and aggregation.
 
